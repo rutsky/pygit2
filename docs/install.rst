@@ -74,10 +74,10 @@ Now install pygit2, and then verify it is correctly installed:
 
    $ pip install pygit2
    ...
-   $ python -c 'import pygit2'
+   $ python -c 'import pygit2't
 
 
-Troobleshooting
+Troubleshooting
 ---------------
 
 The verification step may fail if the dynamic linker does not find the libgit2
